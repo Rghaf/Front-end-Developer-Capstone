@@ -1,0 +1,33 @@
+.error {
+  color: red;
+  font-size: 12px;
+  display: list-item;
+  line-height: 0px;
+  margin-bottom: 10px;
+}
+
+.Input {
+  font-size: 16px;
+}
+
+.Submit {
+  background-color: #f4ce14;
+  border: 1px solid #f4ce14;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 15px;
+  cursor: pointer;
+}
+
+.Submit:hover {
+  background-color: #f4d850;
+}
+
+.Submit:disabled {
+  background-color: #edefee; /* #f4e38a; */
+  border: 1px solid #edefee;
+}
+
+label {
+  font-size: 22px;
+}

@@ -1,0 +1,46 @@
+.highlight {
+  margin-top: 150px;
+  padding-left: 15%;
+  padding-right: 15%;
+  display: grid;
+}
+
+.row-j > button {
+  background-color: #f4ce14;
+  border: 1px #f4ce14;
+  border-radius: 16px;
+  padding: 10px;
+}
+
+.highlight .row-j {
+  margin-bottom: 50px;
+}
+
+.card {
+  margin: 15px;
+  width: 100%;
+  align-items: center;
+}
+
+.image-h {
+  width: 100%;
+  height: 254px;
+  max-width: 100%;
+  max-height: auto;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+
+.card > p {
+  padding: 0 15px 0 15px;
+}
+
+.description {
+  margin-bottom: 120px;
+}
+
+.icon {
+  width: 15px;
+  margin: 3px;
+  vertical-align: middle;
+}
